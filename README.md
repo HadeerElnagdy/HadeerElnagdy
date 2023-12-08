@@ -3,7 +3,7 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linkedin,matlab,py,swift,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,linkedin,swift,vscode,java,mysql)](https://skillicons.dev)
 
 
 ## <img src="https://media.giphy.com/media/8cY8LQMDLhQ4Ml9fLe/giphy.gif" width ="3%"> Where to find me?
