@@ -3,7 +3,10 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,java,c,cpp,git,github,linkedin,vscode,mysql,androidstudio,postman)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width = "5%"/>
+[![My Skills](https://skillicons.dev/icons?i=swift,java,c,cpp,git,github,linkedin,vscode,mysql,androidstudio,postman)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" width = "5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"  width = "5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width = "5%"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width = "5%"/>
+          
+          
+          
 
           
 
