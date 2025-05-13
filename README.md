@@ -15,7 +15,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hadirelnagdy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HadirElnagdy"/></a> 
-  <a href="mailto:hadirelnagdy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HadirElnagdy"/></a> 
-  <a href="https://www.facebook.com/hadiirofathi.annajdy#" target="_blank"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" /></a>    
+  <a href="mailto:hadirelnagdy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HadirElnagdy"/></a>   
 
 </p>  
