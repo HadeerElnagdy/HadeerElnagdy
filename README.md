@@ -14,7 +14,16 @@
 ## <img src="https://media.giphy.com/media/8cY8LQMDLhQ4Ml9fLe/giphy.gif" width ="3%"> Where to find me?
 
 <p>
-  <a href="https://www.linkedin.com/in/hadirelnagdy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="HadirElnagdy"/></a> 
-  <a href="mailto:hadirelnagdy@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="HadirElnagdy"/></a>   
+  <a href="https://www.linkedin.com/in/hadirelnagdy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
+  <a href="mailto:hadirelnagdy@gmail.com" title="hadirelnagdy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>  
+
+  <a href="https://drive.google.com/file/d/1sf1NE5IQHpv11dsE23p4FnY9PSmSaF1j/view?usp=sharing" target="_blank" title="View My Resume">
+    <img src="https://img.shields.io/badge/My%20CV-FF69B4?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV"/>
+  </a>
 </p>  
+
