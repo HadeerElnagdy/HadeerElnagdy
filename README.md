@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&duration=1500&pause=1000&color=B8229A&center=true&vCenter=true&width=435&lines=Hey%2C+This+is+Hadeer%F0%9F%91%8B;An+iOS+Developer+%40Vodafone+Egypt;ITI+Alumna+%E2%80%93+MAD+Track+;Computer+Science+Graduate;ACPC+Finalist%F0%9F%8F%85" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Delius&weight=600&duration=1500&pause=1000&color=F4024C&center=true&vCenter=true&width=435&lines=Hey%2C+This+is+Hadeer%F0%9F%91%8B;An+iOS+Developer+%40Vodafone+Egypt;ITI+Alumna+%E2%80%93+MAD+Track+;Computer+Science+Graduate;ACPC+Finalist%F0%9F%8F%85" alt="Typing SVG" /></a>
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
