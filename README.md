@@ -23,7 +23,7 @@
   </a>  
 
   <a href="https://drive.google.com/file/d/1sf1NE5IQHpv11dsE23p4FnY9PSmSaF1j/view" target="_blank">
-  <img src="https://img.shields.io/badge/My%20CV-000000?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
+  <img src="https://img.shields.io/badge/My%20CV-black?style=for-the-badge&logoColor=white" alt="CV Badge"/>
 </a>
 </p>  
 
